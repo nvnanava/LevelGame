@@ -1,0 +1,5 @@
+string1*Roy: ‘I need to eat food’
+string2*Roy: ’However, I need to go to class’
+string3*Roy: ‘I can’t focus if I do not eat’
+string4*Roy: ‘I have an exam soon'
+string5*Roy: ‘Food later then’ 
